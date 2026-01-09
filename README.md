@@ -38,8 +38,8 @@ i am Thinking about what the data can't tell me, not just what it can. like how 
 
 If You Want to Run This
 
-Open analysis.ipynb in Google Colab
-It'll ask for two CSV files which is the subway stations and NYC business licenses. The files can be found using these two links. subway 
+Copy + Paste each cell in Google Colab
+The first cell will ask for two CSV files which is the subway stations and NYC business licenses. The files can be found using these two links. subway 
 
 stations: https://data.ny.gov/Transportation/MTA-Subway-Stations/39hk-dx4f/about_data
 
